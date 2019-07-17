@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4 Challenge1</string>
+    <string name="profile">Profile</string>
+    <string name="about_alc">About Alc</string>
+    <string name="alc_4_0_challenge_1">ALC 4.0 \nCHALLENGE 1</string>
+    <string name="about_url">https://andela.com/alc</string>
+    <string name="check_internet">Please check your internet connection</string>
+    <string name="reload">Reload</string>
+</resources>
